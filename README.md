@@ -1,6 +1,6 @@
 # React - Upload
 > This is a sample drag & drop demo website.
-<!-- Live demo [_here_](https://react-upload-19b5d.web.app/).  -->
+Live demo [_here_](https://react-upload-19b5d.web.app/).
 
 <center>
 
